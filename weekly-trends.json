@@ -1,0 +1,30 @@
+{
+  "pets": [
+    {
+      "title": "LED Dog Toy",
+      "views": 15000,
+      "likes": 1200,
+      "video_url": "https://www.tiktok.com/@user/video/123"
+    },
+    {
+      "title": "Pet Water Bottle",
+      "views": 12000,
+      "likes": 950,
+      "video_url": "https://www.tiktok.com/@user/video/456"
+    }
+  ],
+  "fitness": [
+    {
+      "title": "Resistance Bands",
+      "views": 20000,
+      "likes": 1800,
+      "video_url": "https://www.tiktok.com/@user/video/789"
+    },
+    {
+      "title": "Yoga Mat",
+      "views": 17000,
+      "likes": 1500,
+      "video_url": "https://www.tiktok.com/@user/video/101"
+    }
+  ]
+}
